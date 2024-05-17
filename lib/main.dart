@@ -73,6 +73,7 @@ class MyApp extends StatelessWidget {
           '/screen4': (context) => Screen4(), // Определяем маршрут для экрана 4
           '/screen5': (context) => Screen5(), // Определяем маршрут для экрана 5
         },
+
       ),
     );
   }
